@@ -1,0 +1,26 @@
+body {
+  background: #FFFFFF;
+}
+div.wrap {
+  width: 900px;
+  background: #FAFAFA;
+}
+header {
+  width: 900px;
+  height: 100px;
+  background: #00a497;
+}
+h1 {
+  color: #FFF;
+  font-size: 40px;
+}
+main {
+  width: 900px;
+}
+h2 {
+  height: 40px;
+  background: #f2e84c;
+}
+img {
+  width: 900px;
+}

@@ -1,0 +1,26 @@
+body {
+  background: #FFFFFF;
+}
+.wrap {
+  width: 900px;
+  background: #FAFAFA;
+}
+header {
+  width: 900px;
+  height: 100px;
+  background: #e13530;
+}
+h1 {
+  color: #FFF;
+  font-size: 40px;
+}
+main {
+  width: 900px;
+}
+h2 {
+  height: 80px;
+  background: #f2e84c;
+}
+h2 a {
+  color:#000000;
+}
